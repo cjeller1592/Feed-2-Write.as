@@ -1,7 +1,9 @@
 Welcome to Feed 2 Write.as!
 ======================================
 
-This is a Glitch app that will allow you to turn any RSS feed into a list on a Write.as post that updates automatically!
+This is a Glitch app that will allow you to turn any RSS feed into a list on a Write.as post that updates automatically! (_Source_: https://glitch.com/~feed-2-writeas)
+
+To see an example of this app in action, click [here](https://imminent-antimatter.glitch.me/xml).
 
 Getting Started
 -------
